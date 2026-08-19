@@ -9,8 +9,10 @@
 
 | 역할 | 이름 |
 | --- | --- |
-| PM / Product Designer | Terry (진민서) |
-| <!-- TODO: 역할 --> | <!-- TODO: 이름 --> |
+| PM & Product Designer | Terry |
+| Graphic Designer | Daisy |
+| Developer | <!-- TODO: 이름 --> |
+| Marketers | <!-- TODO: 이름 --> |
 
 ## 프로젝트
 

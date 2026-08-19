@@ -1,7 +1,7 @@
 ---
 title: "조회수 말고 전환율 — 일본여름카메라 구매 흐름에서 찾은 변수"
 date: 2026-08-19
-author: "세모하우스 PM / Product Designer Terry"
+author: "세모하우스 PM & Product Designer Terry"
 project: "일본여름카메라"
 tags: [회고, 그로스, 데이터분석]
 summary: "마케팅 조회수와 구매수의 상관관계를 찾으려다 실패했습니다. 대신 앱스토어 페이지 노출에서 구매로 넘어가는 전환율이 진짜 병목이라는 걸 발견했습니다."
